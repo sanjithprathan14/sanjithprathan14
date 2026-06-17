@@ -17,7 +17,7 @@
 class SanjithPrathan:
     name        = "RS Sanjith Prathan"
     username    = "sanjithpratha14"
-    location    = "Chennai, Tamil Nadu, India 🇮🇳"
+    location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
 
     stack       = [
         "Python", "Arduino", "Embedded Systems",
